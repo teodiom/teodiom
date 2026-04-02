@@ -1,5 +1,5 @@
 # Theodoros Diomis
-### **Data Science Student | Mathematics Graduate**  | 📍 Thessaloniki, Greece
+### **Data Science Student** | **Mathematics Graduate**  | 📍 Thessaloniki, Greece
 I am a Mathematics graduate and Data Science student focused on applying mathematical logic to real-world data. Throughout my studies, I have completed several projects through which I have gained valuable insights and learned to solve practical, real-world problems.
 ## 🎓 Education
 * **M.Sc. in Data Science** | International Hellenic University
